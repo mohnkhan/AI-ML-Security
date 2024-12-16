@@ -24,3 +24,6 @@ Security, Testing, Prompt Injection, Red Teaming, Blue Teaming
 - [HackAPrompt](https://www.aicrowd.com/challenges/hackaprompt-2023)
 - [AI Village at DEFCON - Generative AI Red Team](https://aivillage.org/generative%20red%20team/generative-red-team/)
 - [Twitter - Algorithmic Bias Bounty Challenge](https://blog.twitter.com/engineering/en_us/topics/insights/2021/learnings-from-the-first-algorithmic-bias-bounty-challenge)
+
+## OpenSource Frameworks
+- [PyRIT Open Source Framework] - (https://github.com/Azure/PyRIT)
